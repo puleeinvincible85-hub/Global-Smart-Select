@@ -1,0 +1,46 @@
+{
+  "regions": {
+    "Germany": [
+      "Germany",
+      "Deutschland",
+      "Allemagne",
+      "Alemania"
+    ],
+    "France": [
+      "France",
+      "Frankreich",
+      "Francia"
+    ],
+    "Spain": [
+      "Spain",
+      "Spanien",
+      "Espagne",
+      "España"
+    ],
+    "United Kingdom": [
+      "United Kingdom",
+      "UK",
+      "Great Britain",
+      "Vereinigtes Königreich",
+      "Royaume-Uni"
+    ]
+  },
+  "products": {
+    "Premium Coffee": [
+      "Premium Coffee",
+      "Premium Kaffee",
+      "Café Premium",
+      "Café Premium"
+    ],
+    "Standard Coffee": [
+      "Standard Coffee",
+      "Standard Kaffee",
+      "Café Standard"
+    ],
+    "Premium Tea": [
+      "Premium Tea",
+      "Premium Tee",
+      "Thé Premium"
+    ]
+  }
+}
