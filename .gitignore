@@ -1,5 +1,15 @@
 .venv/
 __pycache__/
 *.pyc
+
 .env
 .streamlit/secrets.toml
+
+data/*.db
+*.db
+
+.vscode/
+.idea/
+
+check_database.py
+test_*.py
